@@ -1,0 +1,13 @@
+TypeScript
+.
+├── src/
+│   ├── utils/
+│   │   └── cli.ts
+│   └── main.ts
+├── test/
+│   └── exampleTest.ts
+├── build.sh
+├── run.sh
+└── package.json
+
+
